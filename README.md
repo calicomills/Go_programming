@@ -1,3 +1,3 @@
 # Go_programming
 
-Programs written in go,
+Programs written in go.
